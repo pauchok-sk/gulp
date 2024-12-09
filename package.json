@@ -67,7 +67,7 @@
 		"nouislider": "latest",
 		"pug": "latest",
 		"pug-loader": "latest",
-		"sass": "latest",
+		"sass": "^1.79.5",
 		"sass-loader": "latest",
 		"smooth-scroll": "latest",
 		"string-replace-loader": "latest",
@@ -87,8 +87,6 @@
 	"dependencies": {
 		"gulp-cheerio": "^1.0.0",
 		"isotope-layout": "^3.0.6",
-		"react": "^18.2.0",
-		"react-dom": "^18.2.0",
 		"simplebar": "latest"
 	}
 }
